@@ -1,1 +1,1 @@
-# algo__runnerSplits
+# algo__runnerSplits from codewars
